@@ -1,0 +1,9 @@
+package com.nglabs;
+
+public class Laptop {
+
+	public void compile() {
+		System.out.println("I'm compile code.");		
+	}
+
+}
