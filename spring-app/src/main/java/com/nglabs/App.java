@@ -20,11 +20,8 @@ public class App
     	
         Alien obj = (Alien)factory.getBean("alien");        
         obj.code();
-        obj.age = 15;
-        System.out.println(obj.age);
+        System.out.println(obj.getAge());
         
-        Alien obj2 = (Alien)factory.getBean("alien");        
-        obj2.code();
-        System.out.println(obj2.age);
+       
     }
 }
