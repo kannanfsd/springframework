@@ -32,6 +32,7 @@
 			<item value="com.nglabs"/>
 		</list>
 		<list key="artifactId">
+			<item value="spring-app"/>
 			<item value="dream-app"/>
 			<item value="sample-app"/>
 		</list>
